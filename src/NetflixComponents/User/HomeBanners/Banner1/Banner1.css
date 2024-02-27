@@ -1,0 +1,21 @@
+.banner{
+    
+background-image: url('https://i.postimg.cc/jqJvJQ57/d7874679-bd47-4092-a610-f870036afdf9.jpg' );
+height:44em;
+background-size: cover;
+/* filter: brightness(100%); */
+}
+
+ h1{
+  position: absolute;
+  text-align: center;
+
+    
+}
+h2{
+top: 50em;
+text-align: center;
+}
+p{
+    text-align: center;
+}

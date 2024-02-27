@@ -1,0 +1,17 @@
+
+
+.netflix{
+    position:fixed;
+    top: 1em;
+    left: 5em;
+    width: 10em;
+    height: 3em;
+}
+.logo{
+    position:fixed;
+    top:1em;
+     right:5em;
+    width:2.5em;
+    height:5vh;
+    
+}
